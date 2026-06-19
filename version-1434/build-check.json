@@ -1,0 +1,27 @@
+{
+  "parsed_movies": 1979,
+  "html_files": 1993,
+  "detail_files": 1979,
+  "category_files": 10,
+  "category_card_total": 1979,
+  "missing_ad": [],
+  "missing_baidu": [],
+  "title_order_bad": [],
+  "bad_phrase_hits": [],
+  "image_files_included": [],
+  "css_lines": 1103,
+  "js_lines": 203,
+  "m3u8_sources": 20,
+  "category_distribution": {
+    "年度精选": 198,
+    "热门电影": 198,
+    "剧集追看": 198,
+    "爱情青春": 198,
+    "悬疑犯罪": 198,
+    "动作冒险": 198,
+    "喜剧治愈": 198,
+    "科幻奇幻": 198,
+    "动画纪录": 198,
+    "经典片单": 197
+  }
+}
